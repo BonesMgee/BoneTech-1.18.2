@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "group": "iron_ingot",
+  "ingredients": [
+    {
+      "item": "bonetech:calcium_block"
+    }
+  ],
+  "result": {
+    "item": "bonetech:calcium_ingot",
+    "count": 9
+  }
+}

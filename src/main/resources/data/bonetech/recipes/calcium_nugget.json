@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "bonetech:calcium_ingot"
+    }
+  ],
+  "result": {
+    "item": "bonetech:calcium_nugget",
+    "count": 9
+  }
+}

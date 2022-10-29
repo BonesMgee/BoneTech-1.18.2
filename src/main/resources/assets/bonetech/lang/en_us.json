@@ -1,0 +1,13 @@
+{
+  "item.bonetech.calcium_ingot": "Calcium Ingot",
+  "item.bonetech.calcium_nugget": "Calcium Nugget",
+  "item.bonetech.raw_calcium": "Raw Calcium",
+  "item.bonetech.dowsing_rod": "Dowsing Rod",
+
+  "block.bonetech.calcium_block": "Calcium Block",
+  "block.bonetech.calcium_ore": "Calcium Ore",
+
+  "item.bonetech.dowsing_rod.no_valuables": "No Valuables Found",
+
+  "itemGroup.bonetech.bonetech": "BoneTech"
+}
